@@ -1,5 +1,5 @@
 
-# Domestic dogs in protected and rural areas, population and occupancy
+# Domestic dogs in protected and rural areas, population and density
 
 ## Authors: [Filipe Guimarães Lima](https://orcid.org/0000-0001-5383-2845), [Paulo De Marco](https://orcid.org/0000-0002-3628-6405), and [Alessandra Bertassoni](https://orcid.org/0000-0002-4806-579X)
 
